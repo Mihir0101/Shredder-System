@@ -1,0 +1,4 @@
+senv/
+__pycache__/
+*.pt
+HANDS/*.mp4
